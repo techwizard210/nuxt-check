@@ -1,14 +1,12 @@
-<script setup>
-</script>
-
 <template>
-<div class="container">
-    Privacy Policy
-</div>
+    <div class="container">
+        Privacy Policy
+    </div>
 </template>
 
 <style scoped>
-.container{
+.container {
     background-color: rgb(14, 14, 14);
-    color: rgb(255, 255, 255);}
+    color: rgb(255, 255, 255);
+}
 </style>

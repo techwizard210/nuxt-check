@@ -4,8 +4,9 @@
   </NuxtLayout>
 </template>
 
-<script setup></script>
+<script setup>
 
+</script>
 <style>
 @font-face {
   font-family: Ethnocentric;
@@ -28,5 +29,4 @@
   border-style: solid;
   border-color: rgba(255, 255, 255, 0.19);
 }
-
 </style>
